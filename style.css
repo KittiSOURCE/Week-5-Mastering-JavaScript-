@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1, h2 {
+  color: #2c3e50;
+}
+
+button {
+  margin: 5px 0;
+  padding: 5px 10px;
+}
+
+#toggleText {
+  font-weight: bold;
+  color: #e74c3c;
+}
